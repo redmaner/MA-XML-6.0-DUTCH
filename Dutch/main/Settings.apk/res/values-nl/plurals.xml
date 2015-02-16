@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="show_dev_countdown">
         <item quantity="other">U moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
         <item quantity="one">U moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="timer_message_with_minutes">
         <item quantity="other">%1$d minuten</item>
         <item quantity="one">%1$d minuut</item>

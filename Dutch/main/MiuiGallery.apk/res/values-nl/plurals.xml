@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>

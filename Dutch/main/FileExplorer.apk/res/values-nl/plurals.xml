@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="delete_files_confirm">
         <item quantity="other">Verwijderd %1$d bestanden</item>
         <item quantity="zero">Verwijderd %1$d bestanden</item>

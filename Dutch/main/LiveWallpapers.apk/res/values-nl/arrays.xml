@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="polar_clock_palette_ids">
         <item>palette_gray</item>
         <item>palette_white_c</item>

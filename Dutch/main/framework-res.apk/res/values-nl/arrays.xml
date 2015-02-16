@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="emailAddressTypes">
         <item>Thuis</item>
         <item>Werk</item>
@@ -193,12 +193,6 @@
         <item>7</item>
         <item>8</item>
         <item>12</item>
-    </integer-array>
-    <integer-array name="config_defaultNotificationVibePattern">
-        <item>0</item>
-        <item>350</item>
-        <item>250</item>
-        <item>350</item>
     </integer-array>
     <integer-array name="config_notificationFallbackVibePattern">
         <item>0</item>

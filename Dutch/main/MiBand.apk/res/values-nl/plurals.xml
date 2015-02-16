@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="picker_number_of_items_selected">
         <item quantity="other">%1$d selected</item>
         <item quantity="zero">%1$d selected</item>

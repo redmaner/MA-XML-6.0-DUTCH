@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <plurals name="notif_summary_active">
         <item quantity="other">Er worden %d bestanden gedownload</item>
         <item quantity="one">Er wordt 1 bestand gedownload</item>

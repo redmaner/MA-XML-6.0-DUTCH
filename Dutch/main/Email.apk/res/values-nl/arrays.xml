@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="compose_modes">
         <item>Beantwoorden</item>
         <item>Allen beantwoorden</item>

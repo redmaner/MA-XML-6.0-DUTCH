@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="timezone_filters">
         <item>Amerika</item>
         <item>Europa</item>
@@ -44,12 +44,6 @@
         <item>Normaal</item>
         <item>Groot</item>
         <item>Enorm</item>
-    </string-array>
-    <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zeer langzaam</item>

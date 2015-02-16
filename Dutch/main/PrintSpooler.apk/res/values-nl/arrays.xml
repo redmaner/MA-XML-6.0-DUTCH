@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="pdf_printer_media_sizes">
         <item>ISO_A0</item>
         <item>ISO_A1</item>

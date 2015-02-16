@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
 	<string-array name="font_size_scale">
         <item>0.86</item>
         <item>1.0</item>

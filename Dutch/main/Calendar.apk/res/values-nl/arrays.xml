@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-	<resources>
+<resources>
     <string-array name="reminder_methods_labels">
         <item>Melding</item>
         <item>E-mail</item>
@@ -7,25 +7,6 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
-        <item>0 minuten</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-        <item>45 minuten</item>
-        <item>1 uur</item>
-        <item>2 uur</item>
-        <item>3 uur</item>
-        <item>12 uur</item>
-        <item>24 uur</item>
-        <item>2 dagen</item>
-        <item>1 week</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Geen</item>
         <item>0 minuten</item>
         <item>1 minuut</item>
         <item>5 minuten</item>
@@ -176,12 +157,6 @@
         <item>Week</item>
         <item>Maand</item>
         <item>Agenda</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Ik ben een paar minuten te laat.</item>
-        <item>Ik ben er over ongeveer 10 minuten.</item>
-        <item>Begin maar vast zonder mij.</item>
-        <item>Ik red het helaas niet. Laten we een nieuwe afspraak maken.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>
