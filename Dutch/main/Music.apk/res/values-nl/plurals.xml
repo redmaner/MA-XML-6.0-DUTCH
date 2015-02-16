@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>
+	<resources>
   <plurals name="Ntracks_search_result">
         <item quantity="other">%d nummers gevonden</item>
         <item quantity="one">%d nummers gevonden</item>

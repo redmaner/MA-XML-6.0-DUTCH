@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<?xml version='1.0' encoding='UTF-8'?>
+	<resources>
     <string-array name="duration_entries">
         <item>0</item>
         <item>1</item>
@@ -37,4 +37,9 @@
         <item>Muziek</item>
         <item>Stem</item>
     </string-array>
-	</resources>
+    <string-array name="interview_record_scenes_entries">
+        <item>Music</item>
+        <item>Voice</item>
+        <item>Interview</item>
+    </string-array>
+</resources>

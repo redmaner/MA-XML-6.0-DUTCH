@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<?xml version='1.0' encoding='UTF-8'?>
+	<resources>
     <string-array name="traffic_uints">
         <item>M</item>
         <item>G</item>
@@ -57,5 +57,10 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Waarschuwing weergeven</item>
         <item>Waarschuwen en mobile dat uitschakelen</item>
+    </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 MB</item>
+        <item>2 MB</item>
+        <item>3 MB</item>
     </string-array>
 </resources>
